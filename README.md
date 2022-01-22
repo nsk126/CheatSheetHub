@@ -14,3 +14,6 @@
 <img src="WEBDEV2020/devops.png" alt="img-data-webdev-roadmap" width="750"/>
 
 [Source](https://roadmap.sh/)
+
+<img src="GRE CHEATSHEET 1.png" alt="gre" width="750"/>
+[Source](https://www.reddit.com/r/GRE/comments/dau3pu/gre_cheat_sheet_quants/)
